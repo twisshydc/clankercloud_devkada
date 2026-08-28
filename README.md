@@ -57,25 +57,13 @@ Instructions
 </h2>
 
 
-</li>
 
-
-</li>
-
-
-<li>
 
 
 <h2> Step 5: Try it out!!
 <video src="tryit.mp4" controls width="1000"></video>
 
 </h2>
+![Demo](tryits.gif)
 
 
-</li>
-
-
-
-
-  
-</ol>
