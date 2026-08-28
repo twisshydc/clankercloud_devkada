@@ -66,8 +66,9 @@ Instructions
 <li>
 
 
-<h2> Step 5: Try it out based on your preference :D  
-  
+<h2> Step 5: Try it out!!
+  <video src="tryit.mp4" controls width="1000"></video>
+
 </h2>
 
 
