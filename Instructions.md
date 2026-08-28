@@ -19,7 +19,7 @@ Instructions
 
 <h2> Step 1: Create an Account in Clanker Cloud
 </h2>
-<img src="main.png" width="200"> 
+<img src="main.png" width="1500"> 
 
 </li>
 
