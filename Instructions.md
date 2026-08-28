@@ -14,9 +14,12 @@ Instructions
 
 ![Demo](Untitled%20design.gif)
 
+
+<br>
+
 <h2> Step 1: Create an Account in Clanker Cloud
 </h2>
-
+![Demo](main.png)
 
 </li>
 
