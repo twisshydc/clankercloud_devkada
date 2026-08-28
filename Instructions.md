@@ -59,7 +59,7 @@ Instructions
 <li>
 
 
-<h2> Try it out based on your prefference :D and zeplin
+<h2> Step 5 Try it out based on your preference :D and zeplin
 
   
 </h2>
