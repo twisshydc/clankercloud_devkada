@@ -8,8 +8,8 @@
 <h2>
 Instructions
 </h2>
-<ol>
-<li>
+
+
 
 
 
@@ -22,9 +22,9 @@ Instructions
 </h2>
 <img src="main.png" width="1000"> 
 
-</li>
 
-<li>
+
+
 
 
 <h2> Step 2:Go to Marketplace tab and click on Devie.
@@ -33,10 +33,10 @@ Instructions
 </h2>
 
 
-</li>
 
 
-<li>
+
+
 
 
 <h2> Step 3:Enable Devie in the in My agents 
@@ -45,10 +45,10 @@ Instructions
 </h2>
 
 
-</li>
 
 
-<li>
+
+
 
 
 <h2> Step 4:Go to chats and type @Devie and click on it.
