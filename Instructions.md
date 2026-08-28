@@ -1,4 +1,4 @@
-<h1>This is the instruction how to use Debie!!</h1>
+<h1>This is the instruction how to use Devie!!</h1>
 <p>Created by: Trish</p>
 <p>Devkada & ClankerCloud Building Challenge</p>
 
@@ -27,7 +27,7 @@ Instructions
 <li>
 
 
-<h2> Step 2:Go to Marketplace tab and click on Debie.
+<h2> Step 2:Go to Marketplace tab and click on Devie.
 <img src="marketplace.png" width="1000"> 
   
 </h2>
@@ -39,7 +39,7 @@ Instructions
 <li>
 
 
-<h2> Step 3:Enable Debie in the in My agents 
+<h2> Step 3:Enable Devie in the in My agents 
 <img src="agents.png" width="1000"> 
   
 </h2>
@@ -51,7 +51,7 @@ Instructions
 <li>
 
 
-<h2> Step 4:Go to chats and type @Debie and click on it.
+<h2> Step 4:Go to chats and type @Devie and click on it.
 <img src="try.png" width="1000"> 
   
 </h2>
