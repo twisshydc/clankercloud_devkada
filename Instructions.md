@@ -27,7 +27,7 @@ Instructions
 
 
 <h2> Step 2:Go to Marketplace tab and click on Debie.
-
+<img src="marketplace.png" width="1000"> 
   
 </h2>
 
@@ -39,7 +39,7 @@ Instructions
 
 
 <h2> Step 3:Enable Debie in the in My agents 
-
+<img src="agents.png" width="1000"> 
   
 </h2>
 
