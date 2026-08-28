@@ -1,5 +1,6 @@
 <h1>This is the instruction how to use Debie!!</h1>
-
+<p>Created by: Trish</p>
+<p>Devkada & ClankerCloud Building Challenge</p>
 
 ![Demo](Untitled%20design.gif)
 <br>
