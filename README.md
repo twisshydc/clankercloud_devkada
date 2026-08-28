@@ -64,6 +64,6 @@ Instructions
 <video src="tryit.mp4" controls width="1000"></video>
 
 </h2>
-![Demo](tryits.gif)
+<img src="tryits.gif" width="1000">
 
 
