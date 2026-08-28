@@ -51,8 +51,8 @@ Instructions
 <li>
 
 
-<h2> Step 4:G0 to chats and type @Debie and click on it.
-
+<h2> Step 4:Go to chats and type @Debie and click on it.
+<img src="try.png" width="1000"> 
   
 </h2>
 
